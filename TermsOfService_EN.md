@@ -3,7 +3,7 @@
 **Effective date: October 31, 2026**
 **Last updated: October 31, 2026**
 
-Welcome to "Wooden Fish Zen (ForWall)" (the "App"). These Terms of Service (the "Terms") form an agreement between you and [Developer / Legal Entity Name] ("we", "us", or "our") governing your use of the App and related services.
+Welcome to "Wooden Fish Zen (ForWall)" (the "App"). These Terms of Service (the "Terms") form an agreement between you and Qingmuxi Technology Co., Ltd. ("we", "us", or "our") governing your use of the App and related services.
 
 **Please read these Terms in full before using the App, in particular the provisions on virtual goods purchases, auto-renewal, disclaimers, and limitation of liability (Sections 4, 7 and 9).** By downloading, installing, or using the App, you acknowledge that you have read and agree to all of these Terms. If you do not agree, please stop using the App and uninstall it.
 

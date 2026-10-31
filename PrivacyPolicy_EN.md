@@ -3,7 +3,7 @@
 **Effective date: October 31, 2026**
 **Last updated: October 31, 2026**
 
-This Privacy Policy applies to the mobile application "Wooden Fish Zen (ForWall)" (the "App"), developed and operated by [Developer / Legal Entity Name] ("we", "us", or "our"). We understand the importance of your personal information and are committed to protecting it. **In short: the App requires no account, does not collect your identity information, and does not upload your usage data to our servers.**
+This Privacy Policy applies to the mobile application "Wooden Fish Zen (ForWall)" (the "App"), developed and operated by Qingmuxi Technology Co., Ltd. ("we", "us", or "our"). We understand the importance of your personal information and are committed to protecting it. **In short: the App requires no account, does not collect your identity information, and does not upload your usage data to our servers.**
 
 Please read this Policy carefully before using the App. By starting to use the App, you confirm that you have read and agree to this Policy.
 
